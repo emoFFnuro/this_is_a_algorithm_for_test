@@ -1,4 +1,4 @@
-# this_is_a_algorithm_for_test
+# 알고리즘 스터디
 
 ### for algorithm study 
 
