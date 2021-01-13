@@ -13,7 +13,7 @@ def solution(N , stages):
         divider = 0
         operand = 0
 
-        ##in this case O(n) is also passed
+        ##in this case O(n^2) is also passed
         ##use count method is better way
         for j in stages:
             if i <= j:
