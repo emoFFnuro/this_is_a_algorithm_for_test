@@ -5,7 +5,7 @@ def solution(N , stages):
     answer = []
 
     ## we don't have to consider N+1 stage runner
-    ## just count total runner in stages and clear
+    ## just count total runner in stages and clearer 
 
     for i in range(1 , N+1):
         ##operand => stage clear guy count
