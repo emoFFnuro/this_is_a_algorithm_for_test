@@ -20,6 +20,8 @@ def solution(N , stages):
                 divider += 1
             if i == j:
                 operand += 1
+                
+        ## get rid of division by zero
         if divider == 0 or operand == 0:
             answer.append([i , 0])
         else:
