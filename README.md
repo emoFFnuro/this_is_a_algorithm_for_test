@@ -22,5 +22,5 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
     + [퇴사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/14501.py)
     + [병사 배치하기](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/18353.py)
     + [못생긴 수](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/ugly_num.py)
-    + [편집거리 (알고리즘)](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/1715-%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+    + [편집거리 (알고리즘)](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/edit_distance.py)
  
