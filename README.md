@@ -14,7 +14,7 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
     + [프로그래머스-실패율](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
     + [1715-카드 정렬하기](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/1715-%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
     
-#### 5 week : 1.25.21 ~ 2.1.21
+#### 6 week : 1.25.21 ~ 2.1.21
 - Dynamic Programming
   - Part8
     + [10825-국영수](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/10825-%EA%B5%AD%EC%98%81%EC%88%98.py)
