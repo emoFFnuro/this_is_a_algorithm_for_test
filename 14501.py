@@ -8,7 +8,7 @@ for i in range(n):
     T[i] = ta
     P[i] = tb
 
-## to compare wage , need to descending
+## to compare wage , need to be descending
 
 ## we can counsult n , n-1 day  , so we use len(T)
 for i in range(len(T)-2, -1 ,-1):
