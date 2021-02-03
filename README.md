@@ -8,7 +8,7 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
 
 #### 4 week : 1.11.21 ~ 1.18.21
 - Sorting
-  - Part3
+  - Part 3
     + [10825-국영수](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/10825-%EA%B5%AD%EC%98%81%EC%88%98.py)
     + [18310-안테나](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/18310-%EC%95%88%ED%85%8C%EB%82%98.py)
     + [프로그래머스-실패율](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
@@ -16,12 +16,12 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
     
 #### 6 week : 1.25.21 ~ 2.1.21
 - Dynamic Programming
-  - Part8
+  - Part 8
      + [1로 만들기]()
      + [개미 전사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/antworrior.py)
      + [바닥 공사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/floorwork.py)
      + [효율적인 화폐 구성](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/currency.py)
-  - Part16
+  - Part 16
     + [금광](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/goldminer.py)
     + [정수 삼각형](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/1932.py)
     + [퇴사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/14501.py)
@@ -34,7 +34,6 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
    
 #### 7 week : 2.2.21 ~ 2.8.21
 - Shortest Path
-  - 이론
-  - 실전
-  - Part17
+  - Part 9
+  - Part 17
   
