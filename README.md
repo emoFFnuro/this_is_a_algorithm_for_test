@@ -21,7 +21,7 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
      + [개미 전사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/antworrior.py)
      + [바닥 공사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/floorwork.py)
      + [효율적인 화폐 구성](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/currency.py)
-  - Part8
+  - Part16
     + [금광](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/goldminer.py)
     + [정수 삼각형](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/1932.py)
     + [퇴사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/14501.py)
