@@ -31,3 +31,10 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
   - Recommend Problem
     + [동전1](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/2293.py)
     + [가장 큰 정사각형](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/1915.py)
+   
+#### 7 week : 2.2.21 ~ 2.8.21
+- Shortest Path
+  - 이론
+  - 실전
+  - Part17
+  
