@@ -16,7 +16,7 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
     
 #### 6 week : 1.25.21 ~ 2.1.21
 - Dynamic Programming
-  - 실전
+  - Part8
      + [1로 만들기]()
      + [개미 전사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/antworrior.py)
      + [바닥 공사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/floorwork.py)
