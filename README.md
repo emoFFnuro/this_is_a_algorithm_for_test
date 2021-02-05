@@ -35,12 +35,12 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
 #### 7 week : 2.2.21 ~ 2.8.21
 - Shortest Path
   - Part 9
-     + [개선된 다익스트라 알고리즘]()
-     + [플로이드 워셜 알고리즘]()
-     + [미래 도시]()
-     + [전보]()
+     + [개선된 다익스트라 알고리즘](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/dijkstra.py)
+     + [플로이드 워셜 알고리즘](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/floyd_warshall.py)
+     + [미래 도시](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/future_city.py)
+     + [전보](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/deliver.py)
   - Part 17
-     + [플로이드]()
+     + [플로이드](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/11404.py)
      + [정확한 순위]()
      + [화성 탐사]()
      + [숨바꼭질]()
