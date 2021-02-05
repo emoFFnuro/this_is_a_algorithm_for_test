@@ -41,9 +41,9 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
      + [전보](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/deliver.py)
   - Part 17
      + [플로이드](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/11404.py)
-     + [정확한 순위]()
-     + [화성 탐사]()
-     + [숨바꼭질]()
+     + [정확한 순위](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/accurate_rank.py)
+     + [화성 탐사](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/mars_exploration.py)
+     + [숨바꼭질](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/hide_and_seek.py)
   - Recommended Problem
     + [Destiantion Unknown]()
     + []()
