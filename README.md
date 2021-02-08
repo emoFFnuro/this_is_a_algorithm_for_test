@@ -50,7 +50,7 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
     + [합승택시요금](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part17/taxi_budget.py)
     + [네트워크 복구](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part17/2211.py)
     
-#### 8 week : 2.2.21 ~ 2.8.21
+#### 8 week : 2.8.21 ~ 2.15.21
 - Graph theory
   - Part 10
   - Part 18
