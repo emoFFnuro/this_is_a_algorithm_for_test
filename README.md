@@ -46,4 +46,6 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
      + [숨바꼭질](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part9/hide_and_seek.py)
   - Recommended Problem
     + [Destiantion Unknown]()
-    + []()
+    + [알고스팟](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part16/1261.py)
+    + [합승택시요금](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part16/taxi_budget.py)
+    + [네트워크 복구](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part16/2211.py)
