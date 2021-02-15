@@ -59,5 +59,5 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
   - Part 18
     + [알파벳](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/1987.py)
     + [토마토](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/7576.py)
-    + [음악 프그램](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/2623.py)
+    + [음악 프로그램](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/2623.py)
   
