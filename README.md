@@ -57,7 +57,7 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
     + [도시 분할 계획](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/separation_of_city.py)
     + [커리큘럼](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/curriculum.py)
   - Part 18
-    + [팀 결성](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/make_team.py)
-    + [도시 분할 계획](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/separation_of_city.py)
-    + [커리큘럼](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/curriculum.py)
+    + [알파벳](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/1987.py)
+    + [토마토](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/7576.py)
+    + [음악 프로 그램](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/2623.py)
   
