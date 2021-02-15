@@ -53,4 +53,11 @@ book : [영풍문고, 이것이 취업을 위한 코딩 테스트다 with 파이
 #### 8 week : 2.8.21 ~ 2.15.21
 - Graph theory
   - Part 10
+    + [팀 결성](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/make_team.py)
+    + [도시 분할 계획](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/separation_of_city.py)
+    + [커리큘럼](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/curriculum.py)
   - Part 18
+    + [팀 결성](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/make_team.py)
+    + [도시 분할 계획](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/separation_of_city.py)
+    + [커리큘럼](https://github.com/emoFFnuro/this_is_a_algorithm_for_test/blob/main/part18/curriculum.py)
+  
