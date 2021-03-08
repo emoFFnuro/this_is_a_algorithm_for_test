@@ -18,6 +18,9 @@ while q:
     else:
         last.append(num)
 
+positive_number.sort(reverse=True)
+negative_number.sort()
+
 for i in range(0 , len(negative_number) , 2):
     if i + 1 < len(negative_number):
         ans += negative_number[i] * negative_number[i+1]
