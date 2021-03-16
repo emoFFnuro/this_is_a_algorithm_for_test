@@ -13,6 +13,7 @@ for i in range(r):
     for j in range(c):
         if graph[i][j] == 1:
             left_cheese += 1
+            
 def bfs(start_node , left_cheese):
     q = deque()
     q.appendleft(start_node)
